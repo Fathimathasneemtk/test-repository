@@ -1,2 +1,2 @@
 # test-repository
-This is a testing repository
+this is sample repo 1
