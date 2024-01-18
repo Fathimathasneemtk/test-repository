@@ -1,2 +1,2 @@
 # test-repository
-this is sample repo 1
+this is sample repo2
